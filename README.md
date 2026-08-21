@@ -220,11 +220,35 @@ plt.show()
 ```
 
 ## Output:
-- **i)** Read and Display an Image.
--  
-- **ii)** Adjust Image Brightness.  
-- **iii)** Modify Image Contrast.  
-- **iv)** Generate Third Image Using Bitwise Operations.
+## 1. Read and Display an Image.
+-  <img width="939" height="796" alt="image" src="https://github.com/user-attachments/assets/17348141-a09a-45e7-83f4-e0a45acccc30" />
+## 2.Save image as PNG and display:
+
+- <img width="626" height="485" alt="image" src="https://github.com/user-attachments/assets/6b85d2f2-93bb-48da-83dd-cf1b69ac5c45" />
+ 
+## 3.Cropped image
+- <img width="404" height="507" alt="image" src="https://github.com/user-attachments/assets/d8ca8daa-a7f5-4054-a436-5d8f488fc9b0" />
+## 4.Resize and flip Horizontally:
+<img width="512" height="531" alt="image" src="https://github.com/user-attachments/assets/77e91a0f-fb54-4dba-9856-4675eabed85a" />
+## ii) Adjust Image Brightness.
+
+**1.Create brighter and darker images and display:
+<img width="1041" height="265" alt="image" src="https://github.com/user-attachments/assets/1b88df68-11e4-4c1b-8918-845c72635f3f" />
+
+## iii) Modify Image Contrast.
+**1.Modify contrast using scaling factors 1.1 and 1.2
+<img width="1057" height="261" alt="image" src="https://github.com/user-attachments/assets/37fd2447-bca1-4825-8a05-79c000667f78" />
+##  iv) Generate Third Image Using Bitwise Operations.
+**1.Split 'Boy.jpg' into B, G, R components and display:
+
+<img width="1060" height="271" alt="image" src="https://github.com/user-attachments/assets/fd344267-d78c-4870-9bad-cff9f45b2b11" />
+## 2.Merge the R, G, B channels and display
+<img width="445" height="331" alt="image" src="https://github.com/user-attachments/assets/53312610-0132-4178-bbf0-82df5e7877e8" />
+## 3.Split the image into H, S, V components and display:
+<img width="806" height="221" alt="image" src="https://github.com/user-attachments/assets/fb25efe5-a230-4b98-b587-b4f132a40cb8" />
+## 4.Merge the H, S, V channels and display:
+<img width="816" height="329" alt="image" src="https://github.com/user-attachments/assets/4a1cd07e-9423-4761-8e18-ac6805bd70fe" />
+
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
